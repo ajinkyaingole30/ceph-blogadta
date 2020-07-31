@@ -1,2 +1,2 @@
-# ceph-manual
+# ceph-blog
 test
